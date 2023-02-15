@@ -24,6 +24,7 @@ tasks : create db models , import and export the data with DB best modelling pra
    Donation, Distribution, Collection, Transportation of Volunteer/Staff
    
    Every table should have these attributes, created_date, created_by_user, modified_date, modified_by_user, Common Audit table for each entity i.e audit_history
+ 3. Share the detail documentation on ddl script, dml script with 100 sample records to export to the above schema accross table with constraints.
 
 refrenece :
 https://creately.com/diagram/example/i75hwyut2/food-bank
